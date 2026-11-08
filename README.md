@@ -139,5 +139,7 @@ More footage from the truck's point of view: [`media/videos/`](media/videos/)
 ## 👥 Team
 
 - **Muhammad Huzaifa**
-- *Teammate name*
-- *Teammate name*
+- **Umar Jamil**
+- **Raheen Adeeb**
+- **Sohaib Hayat**
+- **Humna Wasim**
